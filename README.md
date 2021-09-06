@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vale_montoya_" target="blank"><img src="https://img.shields.io/twitter/follow/vale_montoya_?logo=twitter&style=for-the-badge" alt="vale_montoya_" /></a> </p>
 
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **PHP and JavaScript**
 
 - 📫 How to reach me **valeriasofiam.f@gmail.com**
 
